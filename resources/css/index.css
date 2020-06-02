@@ -1,0 +1,41 @@
+.header {
+    font-family: Helvetica, Calibri;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url(../images/pattern.jpeg);
+}
+
+.title {
+    font-family: Helvetica, Calibri;
+    font-size: 32px;
+    color: white;
+    font-weight: bold;
+}
+
+#brushes {
+    background-color: mediumspringgreen;
+}
+
+#frames {
+    background-color: lightcoral;
+}
+
+#paints {
+    background-color: skyblue;
+}
+
+h3 {
+    font-family: Helvetica, Calibri;
+    font-weight: bold;
+}
+
+.description {
+    font-family: Helvetica, Calibri;
+}
+
+.price {
+    font-weight: bold;
+    color: blue;
+}
